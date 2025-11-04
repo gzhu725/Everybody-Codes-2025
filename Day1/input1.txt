@@ -1,3 +1,0 @@
-Quirmyr,Phyrloris,Drazsor,Nyrixmir,Aeorrax,Zalryn,Axalnarel,Drakjoris,Orytal,Azgoril,Malithdra,Dormirath,Cynvarvel,Felmaradarin,Thazath,Nyrixiral,Ulkloris,Pylarxith,Brynfal,Krytheldrin,Drethelor,Narrilor,Cyndacris,Maralvalir,Rynural,Ascaldin,Nyrixjorath,Naldgarath,Craglar,Vornoth
-
-L48,R20,L8,R39,L5,R12,L49,R32,L29,R48,L21,R49,L30,R6,L29,R20,L42,R40,L23,R16,L5,R12,L5,R25,L5,R34,L5,R36,L5,R18,L5,R37,L5,R36,L5,R36,L5,R48,L5,R33,L14,R47,L37,R24,L37,R8,L6,R27,L36,R29,L13,R31,L30,R13,L45,R40,L37,R7,L45
